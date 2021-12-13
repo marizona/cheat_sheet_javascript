@@ -4,6 +4,6 @@
 
 ### Javascript Cheat Sheet is designed for everyone who is learning Javascript. 
 
-#contributor
+## contributor
 
 Marizona
