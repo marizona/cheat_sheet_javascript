@@ -6,4 +6,4 @@
 
 ## contributor
 
-Marizona(#marizona)
+Marizona
