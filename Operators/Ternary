@@ -1,0 +1,12 @@
+<condition> ? <value1> : <value2>;
+
+The ternary operator starts with conditional expression followed by the ? operator. 
+The second part (after ? and before :) will be executed if the condition turns out to be true. 
+Suppose, the condition returns false, then the third part (after :) will be executed.
+
+Example: Ternary operator
+
+var a = 10, b = 5;
+
+var c = a > b? a : b; // value of c would be 10
+var d = a > b? b : a; // value of d would be 5

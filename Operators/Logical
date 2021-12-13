@@ -1,0 +1,16 @@
+|| logical or operator
+x = 3
+(x == 3 || x == 2) // Returns true
+(x == 2 || x == 1) // Returns false
+
+
+&& logical and operator
+x = 2
+y = 3
+(x == 2 && y == 3) // Returns true
+(x == 2 && y == 4) // Returns false
+
+! is known as a NOT operator. It reverses the boolean result of the operand (or condition)
+!(a < b); // returns false
+
+!(a > b); // returns true
