@@ -6,16 +6,21 @@ var x = 2
 
 
 +  addition operator
-2 + 3 = 5
 
+```js
+2 + 3 = 5
+```
 
 -  subtraction operator
+```js
 2 - 3 = -1
+```
 
 
 *  multiplicative operator
+```js
 2 * 3 = 6
-
+```
 
 /  division operator
 3 / 2 = 1.5
